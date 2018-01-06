@@ -36,4 +36,10 @@ Vue is a progressive framework for building user interfaces.
 
 - [Vue.js Jobs - VueJobs](https://vuejobs.com/) - A Vue.js special job portal to hire or get hired for all your Vue.js jobs
 
+### Community Examples
 
+  - [Starter Application with JWT Auth + sample backend API in Laravel](http://forum.vuejs.org/topic/39/starter-application-with-jwt-auth-sample-backend-api)
+  - [Vue Samples](https://github.com/superlloyd/VueSamples) by @superlloyd
+  - [Single page application example (Vue + Voie)](https://github.com/inca/voie-example) by [Boris Okunskiy](https://github.com/inca)
+  - [Vue Mini Shop](https://github.com/BosNaufal/vue-mini-shop) by [BosNaufal](https://github.com/BosNaufal)
+  
