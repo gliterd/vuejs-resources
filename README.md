@@ -18,6 +18,7 @@ Vue is a progressive framework for building user interfaces.
 > A curated list of awesome things related to Vue.js
 
 ### Official resources
+
 - [Official Guide](http://vuejs.org/guide/)
 - [API Reference](http://vuejs.org/api/)
 - [GitHub Repo](https://github.com/vuejs/vue)
@@ -26,7 +27,20 @@ Vue is a progressive framework for building user interfaces.
 
 ### Community
 
+- [Twitter](https://twitter.com/vuejs)
+- [Gitter Chat Room](https://gitter.im/vuejs/vue)
+- [Official Forum](http://forum.vuejs.org/)
+- [vue-requests ★27](https://github.com/vuejs/vue-requests) - Request a Vue.js module you wish existed or get ideas for modules
+
 ### Tutorials
+
+- [Vue.js screencasts](https://laracasts.com/series/learning-vue-step-by-step) on Laracasts
+- [Build an App with Vue.js: From Authentication to Calling an API](https://auth0.com/blog/2015/11/13/build-an-app-with-vuejs/) on Auth0 blog
+- [Create a GitHub File Explorer Using Vue.js](https://scotch.io/tutorials/create-a-github-file-explorer-using-vue-js) on Scotch.io
+- [Vue.js Tutorial](http://vegibit.com/vue-js-tutorial/) on Vegibit
+- [Vue.js build set-up from scratch with webpack, vue-loader and hot reload](http://skyronic.com/2015/12/28/vue-project-scratch/)
+- [Vuex basics: Tutorial and explanation](http://skyronic.com/2016/01/03/vuex-basics-tutorial/)
+- [Vuex introduction video - James Browne from London Vue.js Meetup #1](https://www.youtube.com/watch?v=l1KHL-TX3qs)
 
 ### Development Tools
 
