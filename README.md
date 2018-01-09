@@ -24,6 +24,33 @@ Vue is a progressive framework for building user interfaces.
 - [Release Notes](https://github.com/vuejs/vue/releases)
 - [Style Guide](https://vuejs.org/v2/style-guide/)
 
+### Community
+
+### Tutorials
+
+### Development Tools
+
+### Syntax Highlighting
+
+### Snippets
+
+### Autocomplete
+
+### Component Collections
+
+### Libraries & Plugins
+
+1. #### Libraries & Plugins
+
+2. #### Ajax/Data
+
+3. #### State Management
+
+4. #### Validation
+
+5. #### UI Components
+
+
 ### External Resources
 
 - [Vue.js Newsletter](http://vue-newsletter.com/) - Weekly dose of handpicked Vue.js news
