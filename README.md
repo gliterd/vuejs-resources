@@ -43,7 +43,12 @@ Vue is a progressive framework for building user interfaces.
 - [Vuex introduction video - James Browne from London Vue.js Meetup #1](https://www.youtube.com/watch?v=l1KHL-TX3qs)
 
 ### Development Tools
-
+ - [vue-dev-server](https://github.com/paulpflug/vue-dev-server) - A small development server for building `vue` components.
+ - [vuepack.org](http://vuepack.org) - A simple page that allows you to select Vue components and download them as a single minified JS file.
+ - [Storybook](https://storybook.js.org) - The UI Development Environment. works with v3.2+ later.
+ - [Font Awesome Finder](https://chrome.google.com/webstore/detail/font-awesome-icon-finder/kjejboahkcobalmgldloeinebmbomgog) - Chrome extension to search, preview and choose Font Awesome icons and copy the selected icon HTML code & Unicode to clipboard.
+ - [vue-dummy](https://github.com/paulcollett/vue-dummy) - Placeholder Text and Dummy Images as a simple `v-dummy` directive.
+ - [Bit](https://github.com/teambit/bit) - Manage and reuse `vue` components between projects. Easily isolate ans share components from any projec without chagning its source code, organize curated collections and install in different projects.
 ### Syntax Highlighting
 
 ### Snippets
