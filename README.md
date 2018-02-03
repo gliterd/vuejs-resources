@@ -66,6 +66,10 @@ Vue is a progressive framework for building user interfaces.
  - [VUEFormatter](https://github.com/baixuexiyang/VUEFormatter) - Sublime Text code format
  - [vuejs-sublime-complete](https://github.com/BrainBuzzer/vuejs-sublime-complete) - Sublime Text code complete
 
+#### Vim
+
+ - [Vim Vue](https://github.com/posva/vim-vue) - Syntax Highlight for Vue.js components.
+ 
 ### Snippets
 
 ### Autocomplete
