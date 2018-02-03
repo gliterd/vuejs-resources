@@ -78,11 +78,10 @@ Vue is a progressive framework for building user interfaces.
 
  - [Kate Syntax Files](https://github.com/mtorromeo/kate-syntax-files) - Syntax files (modified or original) for katepart (kate, kwrite, kdevelop).
 
-
-### Snippets
-
 ### Autocomplete
 
+ - [vue-instant](https://github.com/santiblanko/vue-instant) - Vue instant allows you to easily create custom search controls with auto suggestions for your vue 2 applications.
+ 
 ### Component Collections
 
 ### Libraries & Plugins
