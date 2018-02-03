@@ -90,6 +90,11 @@ Vue is a progressive framework for building user interfaces.
  
 ### Component Collections
 
+#### Editable
+
+- [vue-xeditable](https://github.com/Kar-Wai-Wong/vue-xeditable) - Better editable Component in Vue Edit.
+
+
 ### Libraries & Plugins
 
 1. #### Libraries & Plugins
