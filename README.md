@@ -90,6 +90,18 @@ Vue is a progressive framework for building user interfaces.
  
 ### Component Collections
 
+#### Editable
+
+- [vue-xeditable](https://github.com/Kar-Wai-Wong/vue-xeditable) - Better editable Component in Vue Edit.
+
+#### Picker
+
+ - [vue-smooth-picker](https://github.com/hiyali/vue-smooth-picker) - A smooth picker component for Vue 2.x, like iOS native datetime picker.
+
+#### Generator
+
+ - [vue-json-schema](https://github.com/demsking/vue-json-schema) - Generate a form using JSON Schema and Vue.js
+ 
 ### Libraries & Plugins
 
 1. #### Libraries & Plugins
