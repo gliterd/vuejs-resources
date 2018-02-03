@@ -69,7 +69,16 @@ Vue is a progressive framework for building user interfaces.
 #### Vim
 
  - [Vim Vue](https://github.com/posva/vim-vue) - Syntax Highlight for Vue.js components.
- 
+
+ #### Visual Studio Code
+
+ - [Vetur](https://github.com/octref/vetur) - Vue tooling for VSCode.
+
+ #### Kate
+
+ - [Kate Syntax Files](https://github.com/mtorromeo/kate-syntax-files) - Syntax files (modified or original) for katepart (kate, kwrite, kdevelop).
+
+
 ### Snippets
 
 ### Autocomplete
