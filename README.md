@@ -98,6 +98,10 @@ Vue is a progressive framework for building user interfaces.
 
  - [vue-smooth-picker](https://github.com/hiyali/vue-smooth-picker) - A smooth picker component for Vue 2.x, like iOS native datetime picker.
 
+#### Generator
+
+ - [vue-json-schema](https://github.com/demsking/vue-json-schema) - Generate a form using JSON Schema and Vue.js
+ 
 ### Libraries & Plugins
 
 1. #### Libraries & Plugins
