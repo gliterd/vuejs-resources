@@ -112,6 +112,8 @@ Vue is a progressive framework for building user interfaces.
 
 4. #### Validation
 
+ - [vee-validate](https://github.com/logaretm/vee-validate) - Simple Vue.js input validation plugin.
+
 5. #### UI Components
 
 
