@@ -113,6 +113,8 @@ Vue is a progressive framework for building user interfaces.
 4. #### Validation
 
  - [vee-validate](https://github.com/logaretm/vee-validate) - Simple Vue.js input validation plugin.
+ - [vue-rawmodel](https://github.com/xpepermint/vue-rawmodel) - RawModel.js plugin for Vue.js v2. Form validation has never been easier.
+ 
 
 5. #### UI Components
 
