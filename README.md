@@ -112,6 +112,16 @@ Vue is a progressive framework for building user interfaces.
 
 4. #### Validation
 
+ - [vee-validate](https://github.com/logaretm/vee-validate) - Simple Vue.js input validation plugin.
+ - [vue-rawmodel](https://github.com/xpepermint/vue-rawmodel) - RawModel.js plugin for Vue.js v2. Form validation has never been easier.
+ - [vuelidate](https://github.com/monterail/vuelidate) - Simple, lightweight model-based validation for Vue.js.
+ - [simple-vue-validator](https://github.com/semisleep/simple-vue-validator) - A simple yet flexible validator library for vue.js.
+ - [vue-vform](https://github.com/joseluisq/vue-vform) - Vue.js 2 form component that integrates jQuery Validation and Axios.
+ - [vue-form](https://github.com/fergaldoyle/vue-form) - Comprehensive form validation for Vue.js.
+ - [vuelidation](https://github.com/cj/vuelidation) - simple, powerful, vuejs validation.
+ - [laravel-vue-validator](https://github.com/val-bubbleflat/laravel-vue-validator) - Display errors from laravel validation rules
+ - [vuejs-model-validator](https://github.com/deulos/vuejs-model-validator) - VueJS style data component validation. Easiness, simplicity, accurate.
+
 5. #### UI Components
 
 
