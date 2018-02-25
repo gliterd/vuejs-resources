@@ -127,7 +127,7 @@ Vue is a progressive framework for building user interfaces.
 
 ### External Resources
 
-- [Vue.js Newsletter](http://vue-newsletter.com/) - Weekly dose of handpicked Vue.js news
+- [Vue.js Newsletter](https://news.vuejs.org/) - Weekly dose of handpicked Vue.js news
 - [Vue.js Tips](http://vuetips.com) - Tips to become a better Vue.js developer
 - [Vue.js Radar](https://www.vuejsradar.com) - Curated newsletter + site covering new Vue.js releases/contributions
 - [Vue.js Feed](https://www.vuejsfeed.com) - News, plugins, tutorials, code & jobs to keep updated with VueJs
